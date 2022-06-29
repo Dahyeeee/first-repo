@@ -1,12 +1,12 @@
 # Hey Good to See you!
 
-My Name is Dahye and I like my name.
+My Name is Dahye and I like my name. </br>
 This repo is for learning git and github.
 
 ## Index
--- Installation
--- How to start
--- Contribution
+- Installation
+- How to start
+- Contribution
 
 ## Installation
 ```sehll
