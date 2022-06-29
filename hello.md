@@ -4,3 +4,4 @@
 - Korean: 안녕
 - Japanese: O haio
 - Chinese: Ni hao
+- Spanish: Olla
