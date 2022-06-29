@@ -3,12 +3,12 @@
 My Name is Dahye and I like my name.
 This repo is for learning git and github.
 
-##Index
---Installation
---How to start
---Contribution
+## Index
+-- Installation
+-- How to start
+-- Contribution
 
-##Installation
+## Installation
 ```sehll
 $ pip i -r requirement.text
 $python main.py
