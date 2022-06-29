@@ -22,4 +22,4 @@ $ npm start
 ##Formula
 $$ y = x+1 $$
 
-or, you can emphasize formula like $ y= x+1 $ .
+or, you can emphasize formula like $y= x+1$ .
